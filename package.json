@@ -1,0 +1,20 @@
+{
+  "name": "dlite-fb",
+  "description": "Small Facebook library.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nshah/dlite-fb",
+  "author": "Naitik Shah <n@daaku.org>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nshah/dlite-fb"
+  },
+  "dependencies": {
+    "dlite-cache": ">= 1.0.0",
+    "dlite-event": ">= 1.0.0",
+    "dlite-jsonp": ">= 1.0.0",
+    "dlite-qs": ">= 1.0.0",
+    "underscore": ">= 1.1.7"
+  },
+  "engines": { "node": ">= 0.4.1" }
+}
